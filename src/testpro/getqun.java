@@ -22,6 +22,8 @@ public class getqun {
         PrintWriter out = null;
         
         
+        
+        
         BufferedReader in = null;
         String result = "";
         try {
