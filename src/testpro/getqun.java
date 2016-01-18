@@ -20,6 +20,7 @@ public class getqun {
      */
     public static String sendPost() {
         PrintWriter out = null;
+        
         BufferedReader in = null;
         String result = "";
         try {
